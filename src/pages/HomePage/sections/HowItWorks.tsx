@@ -31,7 +31,7 @@ export default function HowItWorksSection(): React.JSX.Element {
               description: "Pick your date and time, and get ready to turn heads with your new look.",
             },
           ]}
-          imageSrc="https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785631814586-vy36swkf.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785633413914-xu7co0ax.jpg"
           textAnimation="slide-up"
         />
         </SectionErrorBoundary>
