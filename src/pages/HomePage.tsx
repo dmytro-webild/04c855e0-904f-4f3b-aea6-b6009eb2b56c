@@ -12,7 +12,8 @@ import FaqSection from './HomePage/sections/Faq';
 import ContactSection from './HomePage/sections/Contact';
 
 
-import SocialProofSection from './HomePage/sections/SocialProof';export default function HomePage(): React.JSX.Element {
+import SocialProofSection from './HomePage/sections/SocialProof';
+import PricingSection from './HomePage/sections/Pricing';export default function HomePage(): React.JSX.Element {
   return (
 <>
   <HeroSection />
@@ -24,6 +25,7 @@ import SocialProofSection from './HomePage/sections/SocialProof';export default 
   <FaqSection />
 
       <SocialProofSection />
+      <PricingSection />
   <ContactSection />
     </>
   );
