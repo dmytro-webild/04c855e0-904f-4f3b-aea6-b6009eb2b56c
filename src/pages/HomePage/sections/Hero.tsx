@@ -51,7 +51,7 @@ const HeroInline = () => {
           />
 
           <TextAnimation
-            text={"Discover gorgeous braiding styles, get AI-powered recommendations from our Braid Bestie, and book your next look — all in one place."}
+            text={"Discover gorgeous braiding styles and book your next look — all in one place."}
             variant={"slide-up"}
             gradientText={false}
             tag="p"
