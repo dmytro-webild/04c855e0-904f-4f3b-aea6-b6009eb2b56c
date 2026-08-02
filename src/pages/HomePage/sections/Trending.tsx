@@ -18,7 +18,7 @@ export default function TrendingSection(): React.JSX.Element {
               title: "Knotless Braids",
               description: "Pain-free, lightweight. Advanced.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/young-stylish-woman-with-pink-purple-braids-black-waist-bag-posing-outdoor_343596-2035.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785632857115-p03lzhgg.jpg",
             },
             {
               title: "Box Braids",
@@ -30,25 +30,25 @@ export default function TrendingSection(): React.JSX.Element {
               title: "Cornrows",
               description: "Clean, defined patterns. Medium.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-beautiful-woman-with-braids_23-2151429512.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785632674301-fgcvf9ea.jpg",
             },
             {
               title: "Goddess Braids",
               description: "Flowy, glam vibes. Advanced.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/smiling-woman-with-african-braids_633478-1408.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785632620676-5kko0li0.jpg",
             },
             {
               title: "Fulani Braids",
               description: "Intricate, cultural style. Advanced.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/individual-with-dreads-rastafari-movement_23-2151712145.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785632418338-r4kvnuz4.jpg",
             },
             {
               title: "Twists",
               description: "Soft and bouncy. Easy.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/beauty-woman-portrait-street-outdoor-portrait-fashion-model_1296-881.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785632573620-y5p65qt4.jpg",
             },
             {
               title: "Bohemian Braids",
