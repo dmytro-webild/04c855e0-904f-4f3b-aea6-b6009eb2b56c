@@ -54,7 +54,7 @@ export default function TrendingSection(): React.JSX.Element {
               title: "Bohemian Braids",
               description: "Textured, effortless. Medium.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/woman-with-turquoise-hair-striped-dress-posing_24972-2937.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785631814586-vy36swkf.jpg",
             },
           ]}
           textAnimation="slide-up"
