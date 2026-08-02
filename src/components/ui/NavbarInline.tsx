@@ -1,7 +1,7 @@
 import Button from "@/components/ui/Button";
 
 interface NavbarInlineProps {
-  logo: string;
+  logo: React.ReactNode;
   navItems: { name: string; href: string }[];
   ctaButton: { text: string; href: string };
 }

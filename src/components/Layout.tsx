@@ -34,7 +34,7 @@ export default function Layout() {
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarInline
-      logo="BraidBuddy"
+      logo={<img src="https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785629484205-edx720ol.png" alt="BraidBuddy" className="h-8" />}
       ctaButton={{
         text: "Book Now",
         href: "#contact",
