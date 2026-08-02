@@ -11,7 +11,8 @@ import TrendingSection from './HomePage/sections/Trending';
 import FaqSection from './HomePage/sections/Faq';
 import ContactSection from './HomePage/sections/Contact';
 
-export default function HomePage(): React.JSX.Element {
+
+import SocialProofSection from './HomePage/sections/SocialProof';export default function HomePage(): React.JSX.Element {
   return (
 <>
   <HeroSection />
@@ -22,6 +23,7 @@ export default function HomePage(): React.JSX.Element {
 
   <FaqSection />
 
+      <SocialProofSection />
   <ContactSection />
     </>
   );
