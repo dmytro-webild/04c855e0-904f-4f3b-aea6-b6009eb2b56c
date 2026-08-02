@@ -18,13 +18,13 @@ export default function TrendingSection(): React.JSX.Element {
               title: "Knotless Braids",
               description: "Pain-free, lightweight. Advanced.",
               href: "#contact",
-              imageSrc: "https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785632857115-p03lzhgg.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785633861569-r35e5sgh.jpg",
             },
             {
               title: "Box Braids",
               description: "Classic look, versatile. Medium.",
               href: "#contact",
-              imageSrc: "http://img.b2bpic.net/free-photo/lovely-african-american-woman-with-dreadlocks-leopard-outfit-cafe-beautiful-cool-fashionable-black-young-girl-indoor_627829-4832.jpg",
+              imageSrc: "https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785634297890-f9fnpoom.jpg",
             },
             {
               title: "Cornrows",
