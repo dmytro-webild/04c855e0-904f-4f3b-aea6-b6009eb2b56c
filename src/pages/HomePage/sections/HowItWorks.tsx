@@ -3,7 +3,6 @@
 
 import React from 'react';
 import AboutFeaturesSplit from '@/components/sections/about/AboutFeaturesSplit';
-import { Calendar, CheckCircle, Search } from "lucide-react";
 import SectionErrorBoundary from "@/components/ui/SectionErrorBoundary";
 
 export default function HowItWorksSection(): React.JSX.Element {
@@ -11,29 +10,13 @@ export default function HowItWorksSection(): React.JSX.Element {
     <div id="how-it-works" data-section="how-it-works">
         <SectionErrorBoundary name="how-it-works">
               <AboutFeaturesSplit
-          tag="Steps"
-          title="How BraidBuddy Works"
-          description="Everything you need to get the look you love in three easy steps."
-          items={[
-            {
-              icon: Search,
-              title: "Browse Styles",
-              description: "Explore our curated collection of gorgeous braiding styles with preview cards.",
-            },
-            {
-              icon: Calendar,
-              title: "Ask Braid Bestie",
-              description: "Chat with our AI advisor to find the perfect style for your hair type and lifestyle.",
-            },
-            {
-              icon: CheckCircle,
-              title: "Book & Slay",
-              description: "Pick your date and time, and get ready to turn heads with your new look.",
-            },
-          ]}
-          imageSrc="https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785633413914-xu7co0ax.jpg"
-          textAnimation="slide-up"
-        />
+        tag="Steps"
+        title="How BraidBuddy Works"
+        description="Everything you need to get the look you love in three easy steps."
+        items={[{"icon":"Search","description":"Explore our curated collection of gorgeous braiding styles with preview cards.","title":"Browse Styles"},{"description":"Pick your date and time, and get ready to turn heads with your new look.","title":"Book & Slay","icon":"CheckCircle"}]}
+        imageSrc="https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785633413914-xu7co0ax.jpg"
+        textAnimation="slide-up"
+      />
         </SectionErrorBoundary>
       </div>
   );
