@@ -21,7 +21,7 @@ export default function HeroSection(): React.JSX.Element {
             text: "Chat with Bestie",
             href: "#contact",
           }}
-          imageSrc="http://img.b2bpic.net/free-photo/dreamy-young-woman-with-bright-makeup-posing-with-pleasure-close-up-photo-gorgeous-female-model-pink-periwig-looking-with-smile_197531-8034.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3H6bWYFe0S1ZtUhWnfj8Arfxk1E/uploaded-1785631272160-bz62ywud.jpg"
           textAnimation="slide-up"
         />
         </SectionErrorBoundary>
